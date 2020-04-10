@@ -2,3 +2,17 @@
     max-height: 250px;
     overflow: scroll;
 }
+.form-check-label1{
+    padding-top: 10px;
+}
+
+.type1 {
+    background: yellow;
+}
+.type2 {
+    background: red;
+}
+.type3 {
+    background: blue;
+}
+
